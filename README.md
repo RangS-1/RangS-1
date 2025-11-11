@@ -10,3 +10,5 @@ I’ll be happy to get any feedback or code reviews to help me improve 💪.
 - 🤔 I’m looking for help with ethical hacking and web development
 
 Thank you for visiting my page 👌
+
+![Image](https://github.com/user-attachments/assets/c3372c98-059c-498e-8db4-3f85f0e1fa8e)
