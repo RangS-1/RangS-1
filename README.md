@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**RangS-1/RangS-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior developer and an ethical hacker (i still can't exploit a web -_-). I created this GitHub profile to gain experience and look for job opportunities.
+I’ll be happy to get any feedback or code reviews to help me improve 💪.
 
-Here are some ideas to get you started:
+⭐ Feel free to follow me — I’d really appreciate your support!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning python and web exploitation
+- 👯 I’m a student at Wikrama 1 Garut Vocational High School
+- 🤔 I’m looking for help with ethical hacking and web development
+
+Thank you for visiting my page 👌
+
+<img src="niko_dunking.gif" width="300" height="400">
